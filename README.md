@@ -6,19 +6,19 @@
 
 ### Begin
 
-- [q1_两数之和]:/editor/cn/ID1TwoSum.java
+- [q1_两数之和]:(/editor/cn/ID1TwoSum.java)
 
 ### 二分查找类型题
 
-- [q704_二分查找]:/editor/cn/ID704BinarySearch.java
+- [q704_二分查找]:(/editor/cn/ID704BinarySearch.java)
 
-- [q35_查找插入位置]:/editor/cn/ID35SearchInsertPosition.java
+- [q35_查找插入位置]:(/editor/cn/ID35SearchInsertPosition.java)
 
-- [q69_x的平方根]:/editor/cn/ID69Sqrtx.java
+- [q69_x的平方根]:(/editor/cn/ID69Sqrtx.java)
 
-- [q34_在排序数组中查找元素的第一个和最后一个位置]:/editor/cn/ID34FindFirstAndLastPositionOfElementInSortedArray.java
+- [q34_在排序数组中查找元素的第一个和最后一个位置]:(/editor/cn/ID34FindFirstAndLastPositionOfElementInSortedArray.java)
 
-- [q367_有效的完全平方数]:/editor/cn/ID367ValidPerfectSquare.java
+- [q367_有效的完全平方数]:(/editor/cn/ID367ValidPerfectSquare.java)
 
   
 
