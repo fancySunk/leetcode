@@ -24,5 +24,6 @@
 - [q27_移除元素](/editor/cn/ID27RemoveElement.java)
 - [q26_删除有序数组中的重复项](/editor/cn/ID26RemoveDuplicatesFromSortedArray.java)
 - [q283_移动零](/editor/cn/ID283MoveZeroes.java)
+- [q844_比较含退格的字符串](/editor/cn/ID844BackspaceStringCompare.java)
   
 
